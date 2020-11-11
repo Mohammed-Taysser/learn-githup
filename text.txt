@@ -1,0 +1,9 @@
+You can’t escape it. Everyone’s talking about HTML5.
+it’s perhaps the most hyped technology since people started putting rounded corners on everything and using unnecessary gradients.
+In fact, a lot of what people call HTML5 is actually just old-fashioned DHTML or AJAX.
+Mixed in with all the information is a lot of misinformation, 
+so here, JavaScript expert Remy Sharp and Opera’s Bruce Lawson look at some of the myths and sort the truth from the common misconceptions.
+Once upon a time, there was a lovely language called HTML, which was so simple that writing websites with it was very easy.
+So, everyone did, and the Web transformed from a linked collection of physics papers to what we know and love today. 
+Most pages didn’t conform to the simple rules of the language (because their authors were rightly concerned more with the message than the medium),
+so every browser had to be forgiving with bad code and do its best to work out what its author wanted to display.
